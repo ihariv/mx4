@@ -1,0 +1,2 @@
+unix_socket_connect(radio, rild, mtkrild)
+#binder_call(radio, init)
